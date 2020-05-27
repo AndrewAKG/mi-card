@@ -20,4 +20,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## Mi Card Result
 
-![Mi Card Banner](https://github.com/AndrewAKG/images/MyCard.PNG)
+![Mi Card Banner](https://github.com/AndrewAKG/mi-card/blob/master/images/MyCard.PNG)
